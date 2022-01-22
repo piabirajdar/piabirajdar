@@ -41,10 +41,13 @@ My name is Priyanka Birajdar. I am a senior software engineer at John Deere Indi
        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jest.svg' height='30' width='auto' alt="jest">
 </p>
 
+## My GitHub Stats &#128202;
+ [![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=piabirajdar&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/piabirajdar/github-readme-stats)
+ 
 ##  Connect with me &#129309;
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyankabirajdar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/priyankabirajdar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankabirajdar" height="30" width="40" /></a>
 <a href="https://instagram.com/priyankabirajdar_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashimaahuja" height="30" width="40" /></a>
-<a href="https://github.com/piabirajdar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="priyankabirajdar" height="30" width="40" /></a>  
-
+<a href="https://github.com/piabirajdar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="priyankabirajdar" height="30" width="40" /></a> 
+  
