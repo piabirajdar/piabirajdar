@@ -42,8 +42,7 @@ My name is Priyanka Birajdar. I am a senior software engineer at John Deere Indi
 </p>
 
 ## My GitHub Stats &#128202;
- [![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=piabirajdar&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/piabirajdar/github-readme-stats)
- 
+ [![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=piabirajdar&show_icons=true&theme=tokyonight)](https://github.com/piabirajdar/github-readme-stats) 
 ##  Connect with me &#129309;
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyankabirajdar" height="30" width="40" /></a>
