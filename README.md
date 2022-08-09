@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 ## Hello Peeps! &#128075;
 
-My name is Priyanka Birajdar. I am a senior software engineer at John Deere India. Thank you for viewing my github profile.
+My name is Priyanka Birajdar. I am a graduate student at San Diego State University pursuing Master's in Computer Science. I have 3 years of professional experience in developing interactive applications using latest web frameworks and technologies. Thank you for viewing my github profile.
 
 ## About Me &#9997;
--  🔭 I’m currently working as a full-stack-developer from the past 3 years at John Deere India.
+-  🔭 I worked as a full-stack-developer for 3 years at John Deere India.
 - 💬 Ask me about React, Redux, Javascript and Typescript for the front-end side.
 - 💬 For the backend i have been working on Spring Boot and Java.
 - 💬 You can also talk to me about unit tests using jest/mocha, integration tests and regression tests using cypress.
