@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://github.com/piabirajdar/piabirajdar/blob/main/header3.JPG)
+![Header](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ## Hello Peeps! &#128075;
 
