@@ -14,16 +14,19 @@ Here are some ideas to get you started:
 -->
 ![Header](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-## Hello Peeps! &#128075;
+## Hello Peeps! 👋
 
-My name is Priyanka Birajdar. I am a graduate student at San Diego State University pursuing Master's in Computer Science. I have 3 years of professional experience in developing interactive applications using latest web frameworks and technologies. Thank you for viewing my github profile.
+My name is **Priyanka Birajdar**. I am a **Full-Stack Developer** currently working at **C3 AI in Redwood City, California**. I have **4 years of professional experience** building interactive, scalable applications using modern web technologies.  
+Thank you for visiting my GitHub profile!
 
-## About Me &#9997;
--  🔭 I worked as a full-stack-developer for 3 years at John Deere India.
-- 💬 Ask me about React, Redux, Javascript and Typescript for the front-end side.
-- 💬 For the backend i have been working on Spring Boot and Java.
-- 💬 You can also talk to me about unit tests using jest/mocha, integration tests and regression tests using cypress.
--  📫 Reach me at **piabirajdar@gmail.com**
+## About Me ✍️
+- 🚗 Completed impactful internships at **Tesla** and **Viasat**, contributing to real-time dashboards, backend services, and performance-focused applications.
+- 🔭 Previously worked **3 years as a Full-Stack Developer at John Deere India**.  
+- 🎓 Forever grateful to **San Diego State University** for shaping my technical journey and professional foundation.  
+- 💬 Frontend expertise: **React, Redux, JavaScript, TypeScript & more...**  
+- 💬 Backend experience: **Spring Boot, Java, Python & more...**  
+- 🧪 Skilled in **unit testing** (Jest, Mocha) and **integration/regression testing** (Cypress).  
+- 📫 Reach me at: **piabirajdar@gmail.com**
 
 
 ## Languages & Tools &#9989;
