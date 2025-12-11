@@ -22,7 +22,8 @@ Thank you for visiting my GitHub profile!
 ## About Me ✍️
 - 🚗 Completed impactful internships at **Tesla** and **Viasat**, contributing to real-time dashboards, backend services, and performance-focused applications.
 - 🔭 Previously worked **3 years as a Full-Stack Developer at John Deere India**.  
-- 🎓 Forever grateful to **San Diego State University** for shaping my technical journey and professional foundation.  
+- 🎓 Forever grateful to **San Diego State University** for shaping my technical journey and professional foundation.
+- 🤖 Actively building with AI frameworks like LangChain, LangGraph, Guardrails, and hands-on with RAG pipelines, LLM agents, embedding models, vector databases (Chroma/FAISS), and end-to-end AI application development.
 - 💬 Frontend expertise: **React, Redux, JavaScript, TypeScript & more...**  
 - 💬 Backend experience: **Spring Boot, Java, Python & more...**  
 - 🧪 Skilled in **unit testing** (Jest, Mocha) and **integration/regression testing** (Cypress).  
