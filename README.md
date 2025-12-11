@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 ## Hello Peeps! 👋
 
-My name is **Priyanka Birajdar**. I am a **Full-Stack Developer** currently working at **C3 AI in Redwood City, California**. I have **4 years of professional experience** building interactive, scalable applications using modern web technologies.  
+My name is **Priyanka Birajdar**. I am a **Full-Stack Developer** currently working at **C3 AI in Redwood City, California**. I have **4 years of professional experience** building interactive, scalable applications using modern web technologies. 
+I’m currently passionate about building RAG pipelines, experimenting with agentic AI workflows, and developing end-to-end applications using modern LLM frameworks like LangChain and LangGraph.
 Thank you for visiting my GitHub profile!
 
 ## About Me ✍️
